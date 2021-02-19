@@ -3,4 +3,6 @@
 void main()
 {
 printf("Hello World");
+print("How are you");
+getch();
 }
